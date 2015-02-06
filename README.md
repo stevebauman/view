@@ -36,7 +36,7 @@ And then run `composer install` from the terminal.
 
 Above installation can also be simplify by using the following command:
 
-    composer require "orchestra/asset=2.0.*"
+    composer require "orchestra/view=2.0.*"
 
 ## Configuration
 
